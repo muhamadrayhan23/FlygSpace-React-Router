@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Old English Text MT', serif;
+}
+
+.navbar-brand {
+    font-family: 'Old English Text MT', serif;
+}
+
+.FooterLink {
+    color: white;
+    text-decoration: none;
+}
+
+.FooterLink:hover {
+    text-decoration: underline;
+
+}

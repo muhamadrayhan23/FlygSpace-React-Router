@@ -22,8 +22,8 @@ export const products: Product[] = [
     },
      {
         id: 4,
-        name: "Coldskin TS",
-        image: "/img/coldskin-ts-3.jpg",
+        name: "Otfrost TS",
+        image: "/img/otfrost-3.jpg",
     },
     {
         id: 5,
@@ -37,19 +37,19 @@ export const products: Product[] = [
     },
     {
         id: 7,
-        name: "Coldrage Tour TS",
-        image: "/img/coldrage-tour-wh-3.jpg",
+        name: "Sparat TS",
+        image: "/img/sparat-3.jpg",
     },
     {
         id: 9,
-        name: "Sparat TS",
-        image: "/img/sparat-3.jpg",
+        name: "Sing 10",
+        image: "/img/sing-10-3.jpg",
     },
 
     {
         id: 9,
-        name: "Sing 17",
-        image: "/img/sing-17-3.jpg",
+        name: "Sing 13",
+        image: "/img/sing-13-3.jpg",
     },
     {
         id: 10,

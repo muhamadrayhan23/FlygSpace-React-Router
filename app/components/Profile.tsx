@@ -6,9 +6,9 @@ const Profile: React.FC = () => {
       <div className="row align-items-center">
         <div className="col-md-6 mb-4 mb-md-0">
           <img
-            src="/img/logo2.jpg"
+            src="/img/logo1.png"
             alt="About Us"
-            className="img-fluid rounded shadow object-fit-cover"
+            className="img-fluid rounded object-fit-cover"
             style={{ height: "100%", width: "100%" }}
           />
         </div>
